@@ -217,7 +217,7 @@ display:none;
         width:50%;
     }
     .card{
-        width:15%;
+        width:20%;
     }
     
 .routine{
@@ -234,4 +234,9 @@ display:none;
 .reporttotal > div{
     padding:5px;
 }
+}
+
+@media screen and (min-width:1440px){
+.card{
+width:15;
 }
